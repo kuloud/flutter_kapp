@@ -107,10 +107,10 @@ lib/
 5. 创建Pull Request
 
 ## 📄 开源协议
-本项目遵循 [MIT License](LICENSE)
+本项目遵循 [Apache License 2.0](LICENSE)
 
 ---
-**Created with ❤️ by kuloud** - 如有问题请提交Issue或联系kuloud@example.com
+**Created with ❤️ by kuloud** - 如有问题请提交Issue或联系xkuloud@gmail.com
 ```
 
 这个README模板包含：
